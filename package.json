@@ -1,0 +1,17 @@
+{
+	"name": "typescript_starter",
+	"scripts": {
+		"build": "node_modules/webpack-cli/bin/cli.js"
+	},
+	"dependencies": {
+		"axios": "^0.19.2",
+		"jquery": "^3.5.0",
+		"typescript": "^3.8.3"
+	},
+	"devDependencies": {
+		"@types/jquery": "^3.3.34",
+		"ts-loader": "^6.2.2",
+		"webpack": "^4.42.1",
+		"webpack-cli": "^3.3.11"
+	}
+}
